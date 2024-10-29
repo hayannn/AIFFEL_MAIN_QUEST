@@ -15,6 +15,7 @@
 |            └── 📑 user_data.CSV
 └── 🗂 MiniProject
     ├── 📑 README.md
+    ├── 📑 cleand_trip.csv
     └── 📑 taxi.ipynb
 
 
