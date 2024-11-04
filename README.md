@@ -13,14 +13,29 @@
 |        └── 🗂 241024
 |            ├── 📑 고객을_세그먼테이션하자_프로젝트_데싸3기_이하얀.pdf
 |            └── 📑 user_data.CSV
+|
+|
+├── 🗂 MainQuest02
+|    └── 🗂 FDSProject
+|        └── 🗂 241104
+|            ├── 📑 README.md
+|            ├── 📑 FDSProject.ipynb
+|            └── 🗂 CodeFunction
+|                 ├── 📑 README.md
+|                 ├── 📑 FDSCodeFunction.ipynb
+|                 └── 📑 FDSPreFunction.ipynb
+|
+|
 ├── 🗂 MiniProject
 |   ├── 📑 README.md
-|   ├── 📑 cleand_trip.csv
+|   ├── 📑 cleand_trip.csv
 |   └── 📑 taxi.ipynb
+|
+|
 └── 🗂 MiniProject2
     ├── 📑 README.md
-    ├── 📑 merged_df.csv
-    ├── 📑 pca_df.csv
+    ├── 📑 merged_df.csv
+    ├── 📑 pca_df.csv
     └── 📑 secondhandCarByUK.ipynb
 
 
