@@ -25,6 +25,16 @@
 |                 ├── 📑 FDSCodeFunction.ipynb
 |                 └── 📑 FDSPreFunction.ipynb
 |
+├── 🗂 MainQuest03
+|    └── 🗂 CreditCardFraudDetection
+|        └── 📑 [hayan]_mainquest_credit_card_fraud_detect.ipynb
+|
+|
+├── 🗂 MainQuest04
+|    └── 🗂 HousePrices
+|        └── 📑 [Hayan]_Kaggle_House_Price_v5(Final,Stacking3).ipynb
+|
+|
 |
 ├── 🗂 MiniProject
 |   ├── 📑 README.md
