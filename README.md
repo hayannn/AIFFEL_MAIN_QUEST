@@ -53,11 +53,35 @@
 
 <br>
 
+# 시간순
 ## MainQuest1. 고객을 세그먼테이션하자
 - (10/24) 데이터 전처리하기 ✅
 - (10/25) K-Means 클러스터링을 활용해 클러스터링 진행하기 ✅
 
 <br>
 
-## MiniProject. 택시요금 데이터 다루기
+## MiniProject1. 택시요금 데이터 다루기
 - (10/29) 택시 이용내역 데이터를 이용해 데이터 클리닝 실습하기 ✅
+
+<br>
+
+## MiniProject2. Data transformation - 영국시장의 중고 자동차 가격 데이터 다루기
+- (10/31) 영국시장의 중고 자동차 가격 데이터를 이용해 데이터 프랜스포메이션 실습하기 ✅
+
+<br>
+
+## MainQuest2. Feature Engineering - 신용거래 이상탐지 데이터 다루기
+- (11/04) 신용거래 이상탐지 데이터를 이용한 피쳐 엔지니어링 실습하기 ✅
+
+<br>
+
+## MainQuest3. 캐글 신용카드 사기 검출 프로젝트
+- 링크 : [[Aiffel-DS3] Credit Card Fraud Detection](https://www.kaggle.com/competitions/aiffel-ds-3-credit-card-fraud-detection/overview)
+- (11/12) 캐글 모의 대회를 통한 신용카드 사기 검출 프로젝트 진행하기 ✅
+
+<br>
+
+## MainQuest4. 캐글 주택 가격: 고급 회귀 기법 프로젝트
+- 링크 : [[Aiffel-DS3] House Prices](https://www.kaggle.com/competitions/aiffel-ds-3-house-prices)
+- (11/15) 캐글 모의 대회를 통한 캐글 주택 가격 예측 모델 프로젝트 진행하기 ✅
+
