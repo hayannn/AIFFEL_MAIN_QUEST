@@ -42,11 +42,16 @@
 |   └── 📑 taxi.ipynb
 |
 |
-└── 🗂 MiniProject2
+├── 🗂 MiniProject2
+|   ├── 📑 README.md
+|   ├── 📑 merged_df.csv
+|   ├── 📑 pca_df.csv
+|   └── 📑 secondhandCarByUK.ipynb
+|
+|
+└── 🗂 MiniProject3
     ├── 📑 README.md
-    ├── 📑 merged_df.csv
-    ├── 📑 pca_df.csv
-    └── 📑 secondhandCarByUK.ipynb
+    └── 📑 [MiniProject]시계열 분류.ipynb
 
 
 ```
@@ -85,3 +90,7 @@
 - 링크 : [[Aiffel-DS3] House Prices](https://www.kaggle.com/competitions/aiffel-ds-3-house-prices)
 - (11/15) 캐글 모의 대회를 통한 캐글 주택 가격 예측 모델 프로젝트 진행하기 ✅
 
+<br>
+
+## MiniProject3. 시계열 데이터 - 시계열 분류 프로젝트
+- (12/10) 비정상 데이터를 정상 데이터로 만들기 & 분류 모델 성능 높이기 ✅
