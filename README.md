@@ -49,9 +49,14 @@
 |   └── 📑 secondhandCarByUK.ipynb
 |
 |
-└── 🗂 MiniProject3
+├── 🗂 MiniProject3
+|   ├── 📑 README.md
+|   └── 📑 [MiniProject]시계열 분류.ipynb
+|
+|
+└── 🗂 MiniProject4
     ├── 📑 README.md
-    └── 📑 [MiniProject]시계열 분류.ipynb
+    └── 📑 [MiniProject]ARIMA&ARCH.ipynb
 
 
 ```
@@ -94,3 +99,8 @@
 
 ## MiniProject3. 시계열 데이터 - 시계열 분류 프로젝트
 - (12/10) 비정상 데이터를 정상 데이터로 만들기 & 분류 모델 성능 높이기 ✅
+
+<br>
+
+## MiniProject4. 시계열 데이터 - ARIMA, ARCH 실습 프로젝트
+- (12/11) ARIMA 모델 적용 + S&R 500을 이용한 ARCH 모델 적용해보기 ✅
