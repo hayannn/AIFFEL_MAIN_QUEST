@@ -8,6 +8,19 @@
 ## 프로젝트 구조
 ```
 ├── 📑 README.md
+|
+├── 📍 Appendix
+|    ├── 🗂 NLP_dictionary
+|    |   ├── 📑 README.md
+|    |   └── 📑 멋진 단어사전 만들기.ipynb
+|    |
+|    └── 🗂 NewsCategoryMultipleClassification
+|        ├── 📑 README.md
+|        └── 📑 뉴스 카테고리 다중 분류.ipynb
+|
+|
+|
+|
 ├── 🗂 MainQuest01
 |    └── 🗂 customerSegmentationProject
 |        └── 🗂 241024
@@ -35,6 +48,13 @@
 |        └── 📑 [Hayan]_Kaggle_House_Price_v5(Final,Stacking3).ipynb
 |
 |
+├── 🗂 MainQuest08
+|    └── 🗂 FinanceTimeSeries
+|        └── 📑 [MainQuest08]Finance_Time_Series_hayan.ipynb
+|
+|
+|
+|
 |
 ├── 🗂 MiniProject
 |   ├── 📑 README.md
@@ -54,10 +74,24 @@
 |   └── 📑 [MiniProject]시계열 분류.ipynb
 |
 |
-└── 🗂 MiniProject4
+├── 🗂 MiniProject4
+|   ├── 📑 README.md
+|   └── 📑 [MiniProject]ARIMA&ARCH.ipynb
+|
+|
+├── 🗂 MiniProject5
+|   ├── 📑 README.md
+|   ├── 📑 [Project]인공지능과 가위바위보하기_ver1.ipynb
+|   ├── 📑 [Project]인공지능과 가위바위보하기_ver2.ipynb
+|   └── 📑 가위바위보 예측모델 test7,8.ipynb
+|
+|
+└── 🗂 MiniProject6
     ├── 📑 README.md
-    └── 📑 [MiniProject]ARIMA&ARCH.ipynb
-
+    ├── 📑 Boston 주택 가격 예측 모델.ipynb
+    ├── 📑 MiniProject6/CIFAR10 딥러닝 모델.ipynb
+    ├── 📑 MiniProject6/CIFAR10 딥러닝 모델 CNN적용.ipynb
+    └── 📑 Reuters 딥러닝 모델.ipynb
 
 ```
 
@@ -104,3 +138,27 @@
 
 ## MiniProject4. 시계열 데이터 - ARIMA, ARCH 실습 프로젝트
 - (12/11) ARIMA 모델 적용 + S&R 500을 이용한 ARCH 모델 적용해보기 ✅
+
+<br>
+
+## MainQuest8. Finance Time Series 데이터 활용하기
+- (12/13) 금융 데이터의 Data Labeling, Feature Engineering, Model Training 프로젝트 진행하기 ✅
+
+<br>
+
+## MiniProject5. 가위바위보 분류기를 만들자
+- (12/17) 이미지 데이터를 이용한 가위바위보 분류기 제작 프로젝트 진행하기 ✅
+
+<br>
+
+## MiniProject6. 딥러닝 프로젝트
+- (12/20) Boston 주택 가격 예측 모델, CIFAR10 딥러닝 모델, Reuters 딥러닝 모델 적용해보기 ✅
+- 👉 추가) CIFAR10 딥러닝 모델에 CNN 적용해보는 별도 프로젝트 진행 ✅
+
+<br>
+
+> Appendix
+> - NLP dictionary
+>   - (12/24) 멋진 단어 사전 만들기(딥러닝 모듈 Node 15)
+> - NewsCategoryMultipleClassification
+>   - (12/30) 뉴스 카테고리 다중 분류(딥러닝 모델 Node 18)
