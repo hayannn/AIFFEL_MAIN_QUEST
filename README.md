@@ -53,6 +53,11 @@
 |        └── 📑 [MainQuest08]Finance_Time_Series_hayan.ipynb
 |
 |
+├── 🗂 MainQuest09
+|    └── 🗂 ReutersNewsMultipleClassification
+|        └── 📑 [MainQuest09]뉴스_카테고리_다중분류.ipynb
+|
+|
 |
 |
 |
@@ -162,3 +167,8 @@
 >   - (12/24) 멋진 단어 사전 만들기(딥러닝 모듈 Node 15)
 > - NewsCategoryMultipleClassification
 >   - (12/30) 뉴스 카테고리 다중 분류(딥러닝 모델 Node 18)
+
+<br>
+
+## MainQuest9. 뉴스 카테고리 다중 분류
+- (12/31) 로이터 뉴스 데이터셋을 이용하여 단어 사이즈에 따른 모델 성능 비교하기(ML, DL) ✅
