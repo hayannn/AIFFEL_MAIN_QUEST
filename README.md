@@ -91,12 +91,16 @@
 |   └── 📑 가위바위보 예측모델 test7,8.ipynb
 |
 |
-└── 🗂 MiniProject6
+├── 🗂 MiniProject6
+|   ├── 📑 README.md
+|   ├── 📑 Boston 주택 가격 예측 모델.ipynb
+|   ├── 📑 MiniProject6/CIFAR10 딥러닝 모델.ipynb
+|   ├── 📑 MiniProject6/CIFAR10 딥러닝 모델 CNN적용.ipynb
+|   └── 📑 Reuters 딥러닝 모델.ipynb
+|
+└── 🗂 MiniProject7
     ├── 📑 README.md
-    ├── 📑 Boston 주택 가격 예측 모델.ipynb
-    ├── 📑 MiniProject6/CIFAR10 딥러닝 모델.ipynb
-    ├── 📑 MiniProject6/CIFAR10 딥러닝 모델 CNN적용.ipynb
-    └── 📑 Reuters 딥러닝 모델.ipynb
+    └── 📑 Movielens 영화 SBR_hayan.ipynb
 
 ```
 
@@ -172,3 +176,8 @@
 
 ## MainQuest9. 뉴스 카테고리 다중 분류
 - (12/31) 로이터 뉴스 데이터셋을 이용하여 단어 사이즈에 따른 모델 성능 비교하기(ML, DL) ✅
+
+<br>
+
+## MiniQuest7. 다음에 볼 영화 예측하기[프로젝트]
+- (01/20) MoiveLens 데이터셋을 이용하여 영화 예측 및 추천 시스템 제작 & 성능 테스트 ✅
