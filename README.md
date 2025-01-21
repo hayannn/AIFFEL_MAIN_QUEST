@@ -14,9 +14,13 @@
 |    |   ├── 📑 README.md
 |    |   └── 📑 멋진 단어사전 만들기.ipynb
 |    |
-|    └── 🗂 NewsCategoryMultipleClassification
+|    ├── 🗂 NewsCategoryMultipleClassification
+|    |   ├── 📑 README.md
+|    |   └── 📑 뉴스 카테고리 다중 분류.ipynb
+|    |
+|    └── 🗂 RecommendationSystem
 |        ├── 📑 README.md
-|        └── 📑 뉴스 카테고리 다중 분류.ipynb
+|        └── 📑 아이유팬이 좋아할 만한 다른 아티스트 찾기.ipynb
 |
 |
 |
@@ -181,3 +185,9 @@
 
 ## MiniQuest7. 다음에 볼 영화 예측하기[프로젝트]
 - (01/20) MoiveLens 데이터셋을 이용하여 영화 예측 및 추천 시스템 제작 & 성능 테스트 ✅
+
+<br>
+
+> Appendix
+> - RecommendationSystem
+>   - (01/21) 아이유팬이 좋아할 만한 다른 아티스트 찾기(추천 시스템 모듈 Node 4)
