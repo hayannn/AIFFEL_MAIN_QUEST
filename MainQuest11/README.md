@@ -13,11 +13,10 @@
 ```
 ├── 📑 README.md
 |
-├── 📑 나만의 딥러닝 기반 추천 시스템 구축하기 [프로젝트]
+├── 📑 나만의 딥러닝 기반 추천 시스템 구축하기 [프로젝트].ipynb
 |
 └── 🗂 autointplus
      ├── 📑 autointplus.py
-     |
      ├── 📑 show_st.py
      |
      ├── 🗂 data
